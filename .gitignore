@@ -26,5 +26,4 @@ replay_pid*
 .idea/
 target/
 
-files//json/.camel/
-files/xml/.camel/
+.camel/
